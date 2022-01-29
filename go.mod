@@ -1,3 +1,3 @@
-module github.com/tommyxiang1/gin-go-common
+module ggc
 
 go 1.17
