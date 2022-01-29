@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	demo "ggc/src/demo"
-	demo2 "ggc/src/demo2"
+	demo "github.com/tommyxiang1/gin-go-common/src/demo"
+	demo2 "github.com/tommyxiang1/gin-go-common/src/demo2"
 )
 
 func main()  {
